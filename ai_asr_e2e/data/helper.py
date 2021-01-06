@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+import sys
+sys.path.append("/home/aistudio/external-libraries")
 import math
 from scipy import spatial
 import unicodedata

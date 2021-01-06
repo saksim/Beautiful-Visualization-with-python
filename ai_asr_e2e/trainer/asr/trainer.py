@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import sys
-sys.path.append("/home/aistudio/work/ai_asr_e2e/data")
+# sys.path.append("/home/aistudio/work/ai_asr_e2e/data")
+sys.path.append("/home/aistudio/work/ai_asr_e2e")
 import time
 import numpy as np
 from tqdm import tqdm
